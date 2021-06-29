@@ -6,6 +6,10 @@
 <a href="https://www.facebook.com/ElecSensor18"><img height="30" src="https://github.com/Elecsensor/Elecsensor/blob/main/1200px-Facebook_Logo_(2019).png"></a>&nbsp;&nbsp;
 </p>
 
+  ElecSensor ผู้พัฒนาและออกแบบผลิตภัณฑ์ที่ตอบสนองความต้องการของผู้ใช้งาน 
+  เพื่อเสริมสร้างขีดความสามารถในกระบวนการผลิต ตลอดจนการให้บริการวิจัยพัฒนาระบบต่าง ๆ 
+  เพื่อเพิ่มศักยภาพในกระบวนการที่ต้องการควบคุมคุณภาพ ตลอดจนการจัดหาอุปกรณ์ทางด้านอิเล็กทรอนิกส์
+  ตามความต้องการของลูกค้าด้วยราคาที่เหมาะสมและเป็นกันเอง
 <!--
 **Elecsensor/Elecsensor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
