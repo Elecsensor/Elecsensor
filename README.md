@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align='center'>
+<a href="http://www.elecsensor.com/"><img height="30" src="https://github.com/Elecsensor/Elecsensor/blob/main/minilogo.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/ElecSensor18"><img height="30" src="https://github.com/Elecsensor/Elecsensor/blob/main/1200px-Facebook_Logo_(2019).png?raw=true"></a>&nbsp;&nbsp;
+-->
+</p>
+
 <!--
 **Elecsensor/Elecsensor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
